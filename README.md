@@ -1,0 +1,2 @@
+# firstplugin
+My first plugin
